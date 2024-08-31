@@ -11,5 +11,5 @@
 
 RE hobbyist.
 
-## Get in touch
+## contact
 - Discord: nikolasq
