@@ -1,4 +1,4 @@
-# Nikolas
+# nikolas
 
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://www.github.com/nikolasq)
 [![Discord](https://img.shields.io/badge/-Discord-000?style=flat&logo=discord&logoColor=blue)](https://discord.com/users/nikolasq)
